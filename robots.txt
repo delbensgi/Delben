@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://delbensgi.com.ar/sitemap.xml
